@@ -1,7 +1,6 @@
 <h1 align="center">LIMOS</h1>
 <p align="center">
   <i>Low Impact Model Optimization System</i><br>
-<!--   <b>Run big brains on small machines.</b> -->
 </p>
 
 <p align="center">
@@ -19,6 +18,7 @@
 -  Benchmark inference time on CPU.
 -  Track memory and processor usage during inference
 -  Export performance metrics as lightweight JSON logs
+-  Render clean and colorful CLI output using `rich`
 
 ---
 
