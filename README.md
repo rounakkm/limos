@@ -32,4 +32,23 @@ cd limos
 pip install -r requirements.txt
 ```
 ---
-⚠️ LIMOS is currently in **Alpha** stage. 
+## Development Status
+⚠️ LIMOS is currently in **Alpha** stage.   
+
+- APIs and CLI commands are unstable and subject to change.  
+- Limited support for ONNX operations in this release.  
+- Contributions, testing, and feedback are welcome.  
+
+---
+
+## Contributing
+To get started:  
+
+1. **Fork the repository** and create a feature branch.  
+2. **Add tests** for any new functionality under the `tests/` directory.  
+3. **Update documentation and examples** if APIs change to ensure reproducibility.  
+4. **Submit a pull request** with a concise description of the changes and their motivation.  
+
+For major changes or new features, please open a GitHub issue first to initiate discussion.  
+
+---
